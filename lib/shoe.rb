@@ -13,7 +13,7 @@ class Shoe
   end
   
   def condition
-    puts "new"
+    @condition
   end
   
   
@@ -23,4 +23,4 @@ class Shoe
 end
 
 shoe = Shoe.new("Nike")
-shoe.condition
+shoe.condition = "new"
