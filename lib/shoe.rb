@@ -23,8 +23,4 @@ end
 
 
   shoe = Shoe.new("cobble")
-  if shoe.cobble
-    shoe.condition ="new"
-  else
-    shoe.condition = "old"
-  end
+  
