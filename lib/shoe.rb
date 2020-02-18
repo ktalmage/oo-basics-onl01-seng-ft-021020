@@ -22,6 +22,7 @@ class Shoe
   end
 end
 
+shoe = 
 
   
   
