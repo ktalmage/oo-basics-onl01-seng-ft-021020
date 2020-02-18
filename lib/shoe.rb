@@ -27,3 +27,4 @@ end
     shoe.condition ="new"
   else
     shoe.condition = "old"
+  end
