@@ -12,5 +12,6 @@ class Shoe
   end
   
   def cobble
-    ""
+    "Your shoe has been repaired."
+  end
 end
