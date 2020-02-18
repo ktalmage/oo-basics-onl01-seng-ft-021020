@@ -38,5 +38,5 @@ class Book
   
 end
 
-puts book = Book.new("Some Title")
+book = Book.new("Some Title")
 puts book.turn_page
