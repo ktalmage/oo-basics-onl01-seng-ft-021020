@@ -12,7 +12,9 @@ class Shoe
     @brand
   end
   
-  
+  def condition
+    "new"
+  end
   
   
   
@@ -23,4 +25,4 @@ end
 
 
   shoe = Shoe.new("cobble")
-  shoe.condition = "new"
+  shoe.condition 
