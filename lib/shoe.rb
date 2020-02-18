@@ -13,12 +13,12 @@ class Shoe
   end
   
   def condition
-     @condition
+     @condition = @cobble
   end
   
   def cobble
     @cobble
-    puts 
+    puts "Your shoe is as good as new!"
   end
 end
 
