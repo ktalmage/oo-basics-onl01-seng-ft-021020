@@ -22,7 +22,8 @@ class Shoe
   end
 end
 
-shoe = Shoe.new
-
+shoe = Shoe.new("Nike")
+shoe.cobble
+shoe.condition = "new"
   
   
