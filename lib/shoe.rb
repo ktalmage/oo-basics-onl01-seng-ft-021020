@@ -12,6 +12,6 @@ class Shoe
   end
   
   def cobble
-    "Your shoe has been repaired."
+    "Your shoe is as good as new!"
   end
 end
