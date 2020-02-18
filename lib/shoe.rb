@@ -13,7 +13,7 @@ class Shoe
   end
   
   def condition
-   if  @condition
+     @condition
   end
   
   def cobble
@@ -22,5 +22,5 @@ class Shoe
 end
 
 
-  shoe = Shoe.new("cobble")
+  
   
