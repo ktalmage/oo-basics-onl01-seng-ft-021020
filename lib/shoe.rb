@@ -22,7 +22,7 @@ class Shoe
   end
 end
 
-shoe = 
+shoe = Shoe.new
 
   
   
